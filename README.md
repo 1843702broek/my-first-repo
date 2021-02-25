@@ -1,4 +1,5 @@
 # my-first-repo
 https://www.zuyd.nl/
-##profielfoto
+
+profielfoto
 <img src= "img/chris.jpg">
